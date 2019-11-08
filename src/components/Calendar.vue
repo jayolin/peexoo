@@ -10,9 +10,9 @@
         </div>
 
         <div style="margin: 40px 0; text-align: center">
-            <a @click="page = page - 1" class="link"><b>&lt;</b></a>
+            <a class="link"><b>&lt;</b></a>
             <a class="link">&bull;</a>
-            <a @click="page = page + 1" class="link"><b>&gt;</b> </a>
+            <a class="link"><b>&gt;</b> </a>
         </div>
 
     </div>
